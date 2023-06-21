@@ -1,0 +1,17 @@
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/bin/Debug/net7.0/OtoServisSatis.Data.deps.json
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/bin/Debug/net7.0/OtoServisSatis.Data.runtimeconfig.json
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/bin/Debug/net7.0/OtoServisSatis.Data.dll
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/bin/Debug/net7.0/OtoServisSatis.Data.pdb
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/bin/Debug/net7.0/OtoServisSatis.Entities.dll
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/bin/Debug/net7.0/OtoServisSatis.Entities.pdb
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.csproj.AssemblyReference.cache
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.AssemblyInfoInputs.cache
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.AssemblyInfo.cs
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.csproj.CoreCompileInputs.cache
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.csproj.CopyComplete
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.dll
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/refint/OtoServisSatis.Data.dll
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.pdb
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/OtoServisSatis.Data.genruntimeconfig.cache
+/Users/berk/Desktop/OtoServisSatis/OtoServisSatis.Data/obj/Debug/net7.0/ref/OtoServisSatis.Data.dll

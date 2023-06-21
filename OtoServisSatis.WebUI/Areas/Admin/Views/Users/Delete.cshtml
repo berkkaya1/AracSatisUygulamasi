@@ -1,0 +1,69 @@
+@model OtoServisSatis.Entities.Models.Kullanici
+
+@{
+    ViewData["Title"] = "Sil";
+}
+
+
+<h3>Silmek istiyor musunuz?</h3>
+<hr/>
+<div>
+    <h4>Kullanici</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Ad)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Ad)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SoyAd)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SoyAd)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Telefon)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Telefon)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KullaniciAdi)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KullaniciAdi)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sifre)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sifre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AktifMi)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AktifMi)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Rol)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Rol.Ad)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for= "Id"/>
+        <input type="submit" value="Sil" class="btn btn-danger" /> |
+        <a asp-controller="Users" asp-action="Index">Listeye Geri Don</a>
+    </form>
+</div>
