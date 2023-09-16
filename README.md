@@ -1,7 +1,7 @@
 # AracSatisUygulamasi
 AracSastis projesi Bahçeşehir Wissen Akademide gordugum projeler arasında yapmış oldugum bireysel bir projem, Bu projede bazı araç satış ve servis sitelerinden ilham aldım hem araç satın alabildiginiz hem de sevis ve bakım işlerini takip edebildiginiz geniş yelpazeli admin paneline sahiptir, Yeni araç, marka, kullanici, servis kaydı ekleyebildiginiz, araçların özelliklerini fotograflarini düzenleyebildiginiz kısımlar mevcuttur.
 
-Kullandıgım Bazı Projeler:
+Kullandıgım Bazı Teknolojiler:
 - Proje .NET C# Aspnet MVC CORE alt yapısıyla yazılmıştır.
 - Proje Entity Framework CORE - Code-First yaklaşımıyla yazılmıştır.
 - Identity işlemleri cookies ile halledildi.
